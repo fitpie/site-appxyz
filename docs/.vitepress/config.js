@@ -1,5 +1,4 @@
 export default {
-  base: '/site-appxyz/',
   title: 'Appxyz',
   themeConfig: {
     footer: {
