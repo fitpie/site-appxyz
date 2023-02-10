@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as i,a as r}from"./app.e5ffced6.js";const g=JSON.parse('{"title":"Disclaimer","description":"","frontmatter":{},"headers":[],"relativePath":"disclaimer.md"}'),o={name:"disclaimer.md"},s=r("",5),a=[s];function n(l,c,d,p,h,u){return i(),t("div",null,a)}const y=e(o,[["render",n]]);export{g as __pageData,y as default};
